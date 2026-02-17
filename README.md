@@ -13,6 +13,18 @@ If you want to see the development process (and probably a few mistakes along th
 
 ---
 
+## Table of Contents
+
+- [About The Game](#about-the-game)  
+- [Open Source & Licensing](#open-source--licensing)  
+  - [Source Code](#-source-code)  
+  - [Assets (Art, Audio, etc.)](#-assets-art-audio-etc)  
+- [Engine](#engine)  
+- [Disclaimer](#disclaimer)  
+- [Contact](#contact)
+
+---
+
 ## About The Game
 
 **BearHaven** is a top-down sandbox game where you take care of a family of bears in their cozy woodland home.
@@ -21,9 +33,9 @@ If you want to see the development process (and probably a few mistakes along th
 - Farm berries, mushrooms, and other goodies  
 - Explore the surrounding forest  
 
-Every few days, hunters show up.  
+Every few days, hunters show up.
 
-You can either build defenses with your family… or step up as Papa Bear and take them head-on. The goal is to balance cozy family life with a little survival tension.
+Build defenses with your family, or step up as Papa Bear to fight the hunters and protect your home. The game balances cozy family life with light survival tension.
 
 ---
 
