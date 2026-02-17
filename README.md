@@ -4,12 +4,7 @@
 
 A cozy sandbox game where you live life as a bear family in the forest… and try to survive the occasional hunters. 🐻🌲
 
-I’m making this in Godot 4.6.1 and sharing the journey on YouTube:  
-https://www.youtube.com/@ady-dev  
-
-If you want to see the development process (and probably a few mistakes along the way), feel free to check it out.
-
-> Heads up: this is an early prototype. Things will change, break, and get improved over time.
+> I do not know whether this will become a full released game
 
 ---
 
@@ -19,7 +14,7 @@ If you want to see the development process (and probably a few mistakes along th
 - [Open Source & Licensing](#open-source--licensing)  
   - [Source Code](#-source-code)  
   - [Assets (Art, Audio, etc.)](#-assets-art-audio-etc)  
-- [Engine](#engine)  
+- [Engine & Software](#engine--software)  
 - [Disclaimer](#disclaimer)  
 - [Contact](#contact)
 
@@ -75,16 +70,16 @@ See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
 ---
 
-## Engine
+## Engine & Software
 
-Made with:
-- Godot 4.6.1
+- **Game Engine:** Godot 4.6.1  
+- **Sprite & Art Editor:** Pixelorama
 
 ---
 
 ## Disclaimer
 
-Yep, it’s early. Bugs, broken systems, and changes are expected. That’s part of the fun.
+It's really early in development, stuff will break, be fixed, be removed and added.
 
 ---
 
