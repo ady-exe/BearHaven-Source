@@ -59,7 +59,7 @@ size = Vector2(18, 28)
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=635676966]
 sprite_frames = SubResource("SpriteFrames_3kg8w")
 animation = &"idle front right"
-frame_progress = 0.88255596
+frame_progress = 0.27981257
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1815333455]
 visible = false

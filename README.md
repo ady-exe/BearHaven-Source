@@ -1,98 +1,84 @@
 # BearHaven
 
-A cozy sandbox game about building a life in the forest — and protecting it when danger arrives.
+[![Code License](https://img.shields.io/badge/Code-GPLv3-blue)](LICENSE_CODE) [![Assets](https://img.shields.io/badge/Assets-All%20Rights%20Reserved-red)](LICENSE_ASSETS)
 
-This is my current 2D project, built with Godot 4.6.1.  
-I’ll be documenting the development on YouTube:  
+A cozy sandbox game where you live life as a bear family in the forest… and try to survive the occasional hunters. 🐻🌲
+
+I’m making this in Godot 4.6.1 and sharing the journey on YouTube:  
 https://www.youtube.com/@ady-dev  
 
-If you’d like to follow the journey (and all the inevitable dev struggles), feel free to check it out.
+If you want to see the development process (and probably a few mistakes along the way), feel free to check it out.
 
-> This is currently an early concept prototype.  
-> The scope may grow, shrink, or completely change as development continues.
+> Heads up: this is an early prototype. Things will change, break, and get improved over time.
 
 ---
 
 ## About The Game
 
-**BearHaven** is a top-down sandbox game where you care for a family of bears living in a woodland sanctuary.
+**BearHaven** is a top-down sandbox game where you take care of a family of bears in their cozy woodland home.
 
-Build and expand your home.  
-Decorate rooms.  
-Farm crops.  
-Explore the surrounding forest.
+- Expand and decorate your house  
+- Farm berries, mushrooms, and other goodies  
+- Explore the surrounding forest  
 
-But every few days, hunters arrive.
+Every few days, hunters show up.  
 
-Build defenses with your family, or fight the hunters as Papa Bear to defend your family from the horrors they bring.
-
-The game focuses on balancing cozy family life with light survival tension.
+You can either build defenses with your family… or step up as Papa Bear and take them head-on. The goal is to balance cozy family life with a little survival tension.
 
 ---
 
 ## Open Source & Licensing
 
-BearHaven uses a **split license structure**:
+BearHaven uses a **split license setup**:
 
 ### 🧠 Source Code
-All source code in this repository is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+All the code here is under **GNU GPLv3**.  
 
-You are free to:
-- View, modify, and redistribute the code
-- Fork the project
-- Create mods
-- Contribute improvements
+You’re welcome to:
+- Read, tweak, and improve the code  
+- Fork the project  
+- Make mods  
+- Contribute fixes  
 
-As long as:
-- Proper credit is given
-- The project remains open source under GPLv3
-- All derivative works also use GPLv3
+Just make sure:
+- You give credit where it’s due  
+- The project stays open source under GPLv3  
+- Any derivative works also stay under GPLv3  
 
-See `LICENSE_CODE` for full details.
+See [LICENSE_CODE](LICENSE_CODE) for all the legal stuff.
 
 ---
 
-### 🎨 Assets (Art, Audio, Branding, Dialogue, etc.)
+### 🎨 Assets (Art, Audio, etc.)
 
-All game assets — including but not limited to:
-- Artwork
-- Sprites
-- Animations
-- Music
-- Sound effects
-- Story content
+All the game’s art, music, sounds, sprites, and story content are **All Rights Reserved**.  
 
-Are **All Rights Reserved** unless explicitly stated otherwise.
+You may **not**:
+- Use the assets in your own project  
+- Share or sell them separately  
+- Reupload them somewhere else  
+- Use the BearHaven characters or branding outside this game  
 
-You may not:
-- Reuse assets in your own project
-- Redistribute assets separately
-- Modify and republish assets
-- Use the branding or characters outside this project
-
-See `LICENSE_ASSETS` for full details.
+See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
 ---
 
 ## Engine
 
-Built using:
+Made with:
 - Godot 4.6.1
 
 ---
 
 ## Disclaimer
 
-This is an early prototype.  
-There will be bugs. Systems will change. Features may disappear.
-
-That’s part of the process.
+Yep, it’s early. Bugs, broken systems, and changes are expected. That’s part of the fun.
 
 ---
 
 ## Contact
 
-For licensing or usage questions:
+Questions about licenses or usage? Hit me up:
 
 - **Email:** adygamedev@gmail.com  
-- Or open an issue on this repository.
+- Or open an issue on this repo
