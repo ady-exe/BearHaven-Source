@@ -4,7 +4,7 @@
 
 A cozy sandbox game where you live life as a bear family in the forest… and try to survive the occasional hunters. 🐻🌲
 
-> I do not know whether this will become a full released game
+> I’m not sure yet if this will become a full released game.
 
 ---
 
@@ -52,7 +52,7 @@ Just make sure:
 - The project stays open source under GPLv3  
 - Any derivative works also stay under GPLv3  
 
-See [LICENSE_CODE](LICENSE_CODE) for all the legal stuff.
+See [LICENSE_CODE](LICENSE_CODE) for full details.
 
 ---
 
@@ -79,7 +79,7 @@ See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
 ## Disclaimer
 
-It's really early in development, stuff will break, be fixed, be removed and added.
+This is really early in development — stuff will break, be fixed, removed, or added. That’s all part of the process.
 
 ---
 
