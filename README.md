@@ -74,6 +74,7 @@ This consists of the following, and the following only:
 - Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
 - Link: https://kenney.nl/assets/tiny-battle
 Full credit goes out to these artists. I highly appreciate all the content you make for us game developers!
+If any asset isn't listed in this list, whether its a sprite, SFX, music, etc, then it is mine, and is under All Rights Reserved.
 
 See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
