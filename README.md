@@ -67,8 +67,8 @@ You may **not**:
 - Use the BearHaven characters or branding outside this game
 
 **Note**: 
-- Some art assets I used are public domain from other artists.
-- This consists of the following, and the following only:
+Some art assets I used are public domain from other artists.
+This consists of the following, and the following only:
 - Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
 - Link: https://mxtgames.itch.io/forest-vegetation-lite
 - Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
