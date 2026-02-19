@@ -69,10 +69,10 @@ You may **not**:
 **Note**: 
 - Some art assets I used are public domain from other artists.
 - This consists of the following, and the following only:
--- Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
-Link: https://mxtgames.itch.io/forest-vegetation-lite
--- Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
-Link: https://kenney.nl/assets/tiny-battle
+- Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
+- Link: https://mxtgames.itch.io/forest-vegetation-lite
+- Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
+- Link: https://kenney.nl/assets/tiny-battle
 
 See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
