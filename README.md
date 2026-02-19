@@ -22,15 +22,15 @@ A cozy sandbox game where you live life as a bear family in the forest… and tr
 
 ## About The Game
 
-**BearHaven** is a top-down sandbox game where you take care of a family of bears in their cozy woodland home.
+**BearHaven** is a top-down sandbox game where you take care of a bear (you) and try to up-keep your families reputation.
 
 - Expand and decorate your house  
-- Farm berries, mushrooms, and other goodies  
 - Explore the surrounding forest  
+- Avenge your father
 
 Every few days, hunters show up.
 
-Build defenses with your family, or step up as Papa Bear to fight the hunters and protect your home. The game balances cozy family life with light survival tension.
+Build defenses with your newfound family and frieds, or play offensive and become a fearless leader.
 
 ---
 
@@ -64,7 +64,15 @@ You may **not**:
 - Use the assets in your own project  
 - Share or sell them separately  
 - Reupload them somewhere else  
-- Use the BearHaven characters or branding outside this game  
+- Use the BearHaven characters or branding outside this game
+
+**Note**: 
+- Some art assets I used are public domain from other artists.
+- This consists of the following, and the following only:
+-- Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
+Link: https://mxtgames.itch.io/forest-vegetation-lite
+-- Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
+Link: https://kenney.nl/assets/tiny-battle
 
 See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
