@@ -58,7 +58,7 @@ See [LICENSE_CODE](LICENSE_CODE) for full details.
 
 ### 🎨 Assets (Art, Audio, etc.)
 
-All the game’s art, music, sounds, sprites, and story content are **All Rights Reserved**.  
+Majority of the game’s art, music, sounds, sprites, and story content are **All Rights Reserved**.  
 
 You may **not**:
 - Use the assets in your own project  
@@ -67,12 +67,13 @@ You may **not**:
 - Use the BearHaven characters or branding outside this game
 
 **Note**: 
-Some art assets I used are public domain from other artists.
+Some art assets I used are from other assets, therefore they still hold their respective licenses.
 This consists of the following, and the following only:
 - Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
 - Link: https://mxtgames.itch.io/forest-vegetation-lite
 - Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
 - Link: https://kenney.nl/assets/tiny-battle
+Full credit goes out to these artists. I highly appreciate all the content you make for us game developers!
 
 See [LICENSE_ASSETS](LICENSE_ASSETS) for full details.
 
