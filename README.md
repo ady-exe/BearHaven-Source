@@ -64,7 +64,7 @@ You may **not**:
 - Use the assets in your own project  
 - Share or sell them separately  
 - Reupload them somewhere else  
-- Use the BearHaven characters or branding outside this game
+- Use the BearHaven characters outside this game
 
 **Note**: 
 Some art assets I used are from other assets, therefore they still hold their respective licenses.
@@ -73,6 +73,7 @@ This consists of the following, and the following only:
 - Link: https://mxtgames.itch.io/forest-vegetation-lite
 - Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
 - Link: https://kenney.nl/assets/tiny-battle
+
 Full credit goes out to these artists. I highly appreciate all the content you make for us game developers!
 If any asset isn't listed in this list, whether its a sprite, SFX, music, etc, then it is mine, and is under All Rights Reserved.
 
