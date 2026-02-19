@@ -64,7 +64,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle back",
-"speed": 2.0
+"speed": 3.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -75,7 +75,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle back left",
-"speed": 5.0
+"speed": 3.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -86,7 +86,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle back right",
-"speed": 5.0
+"speed": 3.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -142,7 +142,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk back",
-"speed": 3.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -182,7 +182,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk back right",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -199,7 +199,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk front",
-"speed": 3.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -219,7 +219,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk front left",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -239,13 +239,14 @@ animations = [{
 }],
 "loop": true,
 "name": &"walk front right",
-"speed": 5.0
+"speed": 7.0
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_x63s8"]
-size = Vector2(16, 7)
+size = Vector2(14, 6)
 
 [node name="Player" type="CharacterBody2D" unique_id=70967145]
+y_sort_enabled = true
 script = ExtResource("1_ur7pv")
 
 [node name="Shadow" type="Sprite2D" parent="." unique_id=1674621202]
@@ -254,11 +255,11 @@ texture = ExtResource("10_y4r1p")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=635676966]
 sprite_frames = SubResource("SpriteFrames_3kg8w")
-animation = &"walk front left"
-frame_progress = 0.53722274
+animation = &"idle front"
+frame_progress = 0.7296467
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1815333455]
-position = Vector2(0, 11.5)
+position = Vector2(0, 12)
 shape = SubResource("RectangleShape2D_x63s8")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=354938365]
