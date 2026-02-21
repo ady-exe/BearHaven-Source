@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://clb3bcpr88mn"
-path="res://.godot/imported/flower 3.png-c4f15112ec3e8604ae3d1931d1e7ab75.ctex"
+uid="uid://d2ltyjlh52rdk"
+path="res://.godot/imported/kenney tiny battle - cropped.png-7915d26986f40fec22affad090237709.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/tilemap/flower 3.png"
-dest_files=["res://.godot/imported/flower 3.png-c4f15112ec3e8604ae3d1931d1e7ab75.ctex"]
+source_file="res://assets/tilemaps/kenney tiny battle - cropped.png"
+dest_files=["res://.godot/imported/kenney tiny battle - cropped.png-7915d26986f40fec22affad090237709.ctex"]
 
 [params]
 

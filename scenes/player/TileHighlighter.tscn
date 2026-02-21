@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://bw8a1i7mlpg07"]
 
-[ext_resource type="Texture2D" uid="uid://bxboorxqnh11n" path="res://assets/sprites/bear/misc/highlight.png" id="1_enbwg"]
-[ext_resource type="Script" uid="uid://csliic7m5t681" path="res://scripts/TileHighlight.gd" id="2_5gws6"]
+[ext_resource type="Texture2D" uid="uid://bxboorxqnh11n" path="res://assets/misc/highlight.png" id="1_enbwg"]
+[ext_resource type="Script" uid="uid://csliic7m5t681" path="res://scripts/player/TileHighlight.gd" id="2_5gws6"]
 
 [node name="TileHighlighter" type="Node2D" unique_id=1629728854]
 script = ExtResource("2_5gws6")

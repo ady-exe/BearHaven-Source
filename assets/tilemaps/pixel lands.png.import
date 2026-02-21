@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxboorxqnh11n"
-path="res://.godot/imported/highlight.png-92e7b180046a9dada20dcc13f6134ebd.ctex"
+uid="uid://u8x80dc4l8p4"
+path="res://.godot/imported/pixel lands.png-f6ffbc9d5dd60d0e5679e26dfea779a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/bear/misc/highlight.png"
-dest_files=["res://.godot/imported/highlight.png-92e7b180046a9dada20dcc13f6134ebd.ctex"]
+source_file="res://assets/tilemaps/pixel lands.png"
+dest_files=["res://.godot/imported/pixel lands.png-f6ffbc9d5dd60d0e5679e26dfea779a2.ctex"]
 
 [params]
 

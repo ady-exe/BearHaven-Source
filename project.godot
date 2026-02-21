@@ -26,6 +26,14 @@ window/size/mode=3
 window/stdout/print_gpu_profile=false
 window/stdout/print_fps=false
 
+[file_customization]
+
+folder_colors={
+"res://assets/": "red",
+"res://scenes/": "green",
+"res://scripts/": "purple"
+}
+
 [input]
 
 up={

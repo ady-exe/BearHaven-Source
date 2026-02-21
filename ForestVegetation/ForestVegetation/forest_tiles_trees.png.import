@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bl5jhgifr3ljy"
-path="res://.godot/imported/forest_tiles_trees_with_shadows(4).png-361fc29d74e412c8b11e933734329bcb.ctex"
+uid="uid://4fp6cyt5avrn"
+path="res://.godot/imported/forest_tiles_trees.png-375e5a67cbef680af479be46511d4250.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/bear/misc/forest_tiles_trees_with_shadows(4).png"
-dest_files=["res://.godot/imported/forest_tiles_trees_with_shadows(4).png-361fc29d74e412c8b11e933734329bcb.ctex"]
+source_file="res://ForestVegetation/ForestVegetation/forest_tiles_trees.png"
+dest_files=["res://.godot/imported/forest_tiles_trees.png-375e5a67cbef680af479be46511d4250.ctex"]
 
 [params]
 

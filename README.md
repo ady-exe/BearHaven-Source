@@ -69,8 +69,8 @@ You may **not**:
 **Note**: 
 Some art assets I used are from other assets, therefore they still hold their respective licenses.
 This consists of the following, and the following only:
-- Forest Vegetation: This is a tilemap made by an amazing artist called MXTGames 
-- Link: https://mxtgames.itch.io/forest-vegetation-lite
+- Pixel Lands: This is a tilemap made by an anamzing artist called Trislin
+- Link: https://trislin.itch.io/pixel-lands-forest?download
 - Kenney Tiny Battle: This is a tilemap made by a well-known asset maker called Kenney
 - Link: https://kenney.nl/assets/tiny-battle
 

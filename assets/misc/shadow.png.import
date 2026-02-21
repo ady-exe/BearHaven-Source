@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4aub5ccqi2s1"
-path="res://.godot/imported/flower 5.png-e45c5941b0cdd80fc03bf688b8f061d0.ctex"
+uid="uid://cj6c563fxm1i1"
+path="res://.godot/imported/shadow.png-6cfd3c91c7286a1e6518e6ea3ae78533.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/tilemap/flower 5.png"
-dest_files=["res://.godot/imported/flower 5.png-e45c5941b0cdd80fc03bf688b8f061d0.ctex"]
+source_file="res://assets/misc/shadow.png"
+dest_files=["res://.godot/imported/shadow.png-6cfd3c91c7286a1e6518e6ea3ae78533.ctex"]
 
 [params]
 
